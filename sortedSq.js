@@ -20,4 +20,3 @@ const sortedSq = function (arr) {
 };
 
 console.log(sortedSq(arr));
-console.log(Math.abs(-9));
